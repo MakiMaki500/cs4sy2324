@@ -8,7 +8,7 @@ package cs4sy2324;
  *
  * @author josue
  */
-public class Cs4sy2324 {
+public class Exercise1 {
 
     /**
      * @param args the command line arguments
